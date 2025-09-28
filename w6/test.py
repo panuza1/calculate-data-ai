@@ -10,7 +10,7 @@ def function_entropy(p1, p2):
     print("result = ", result)
     print()
 
-
+   
 def function_weight_avg_entropy(n):
     number_element = []
     number_store_for_cal = []
