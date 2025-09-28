@@ -1,7 +1,7 @@
-# TP = 90   # True Positives
-# FN = 210  # False Negatives
-# FP = 140  # False Positives
-# TN = 9560 # True Negatives
+# TP = 90   
+# FN = 210  
+# FP = 140 
+# TN = 9560 
 TP = int(input("True Positives: "))
 FN = int(input("False Negatives: "))
 FP = int(input("False Positives: "))
